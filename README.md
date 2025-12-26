@@ -10,6 +10,12 @@ It provides **data-driven insights** to support real business decisions.
 - Top performers analysis
 - Call Drop Rate & Average Call Duration analysis
 - Actionable business insights from raw data
+  
+## Key Business Insights
+
+- Quality of calls matters more than quantity  
+- Mid-year dip in conversion indicates possible team fatigue  
+- High-value deals drive more revenue than sheer volume  
 
 ## Tools Used
 - Advanced Excel (Dashboards & Analysis)
